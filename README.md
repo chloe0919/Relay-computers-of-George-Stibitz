@@ -95,17 +95,18 @@ Dartmouth的演示預示了現代遠端計算時代,但這種類型的遠端訪�
 所有的貝爾實驗室中繼計算機都用十進位算術工作。一條特殊電路檢查,發現每個十進位數位只有兩個繼電器通電。
 另一個電路檢查每個組只有一個繼電器打開,這防止了兩個單獨的錯誤相互抵消,儘管某些異常故障組合可能未被檢測到。
 
-Relay computers:中繼計算機
-diodes:二極體
-point transistor:點晶體管
-fully transistor computer:完全晶體管計算機
-modem:調製解調器
-single-chip 32-bit processor:單晶片32位處理器
-relays binary adder:繼電器二進位加器
-filter:濾波器
-amplifier:放大器
-Complex Number Computer:複數計算機
-Relay Interpolator:中繼插值器
-Ballistic Computer:彈道計算機
-Error Detector Mark 22:錯誤探測器馬克22
+單字:
 
+Relay computers:中繼計算機                                               
+diodes:二極體                                                
+point transistor:點晶體管                                                 
+fully transistor computer:完全晶體管計算機                                                          
+modem:調製解調器                                                               
+single-chip 32-bit processor:單晶片32位處理器                                              
+relays binary adder:繼電器二進位加器                                              
+filter:濾波器                                                                                    
+amplifier:放大器                                                                               
+Complex Number Computer:複數計算機                                                                 
+Relay Interpolator:中繼插值器                                                            
+Ballistic Computer:彈道計算機                                                                            
+Error Detector Mark 22:錯誤探測器馬克22                                                              
